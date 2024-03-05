@@ -39,7 +39,7 @@ const HomeCards = () => {
                             />
                             <div className="content_abs content_bottom content_left content_bottom-lg content_left-lg ">
                                 <p className="text-uppercase mb-0 ">Shop Casual</p>
-                                <h3 className="mb-2 font-semibold ">Free Shipping</h3>
+                                <h3 className="mb-2 font-semibold ">Clothes For Boys</h3>
                                 <a
                                     href="./shop1.html"
                                     className="btn-link default-underline text-uppercase fw-medium "
@@ -90,7 +90,7 @@ const HomeCards = () => {
                                 <a
                                     href="./shop1.html"
                                     className="btn-link default-underline text-uppercase fw-medium "
-                                >
+                             >
                                     Shop Now
                                 </a>
                             </div>
